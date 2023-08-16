@@ -1,0 +1,10 @@
+@startuml
+class Person {
+    String name
+    String surname
+    int age
+    String document
+    Dog perro
+}
+Person --> Dog : tiene
+@enduml

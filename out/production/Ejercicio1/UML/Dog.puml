@@ -1,0 +1,8 @@
+@startuml
+class Dog {
+    String name
+    String race
+    int age
+    String size
+}
+@enduml
